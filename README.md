@@ -51,3 +51,7 @@ public class OrderTest {
     }
 }
 ```
+
+## UML Diagram:
+
+![UML Class Diagram](https://github.com/fausturnacht/SOLID-Principles2/blob/d79cefa40948f3258071750320292fe475ce6946/SOLIDPrinciples-UML.png)
